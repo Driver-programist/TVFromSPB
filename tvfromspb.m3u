@@ -104,7 +104,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/mono.ts.m3u8
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://toplogos.ru/images/logo-kinokomediya.png" group-title="Фильмы и сериалы",Кинокомедия
 https://s80718.cdn.ngenix.net//hls//CH_KINOKOMEDIYA//variant.m3u8
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://www.cableman.ru/sites/default/files/kinosemya.png" group-title="Фильмы и сериалы",Киносемья
-http://31.210.208.171:8080/kinofamily/index.m3u8?token=+W2MSER
+https://stream8.cinerama.uz/1234/mono.m3u8
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://www.cableman.ru/sites/default/files/nashe_novoe_kino.png" group-title="Фильмы и сериалы",Наше новое кино
 https://s70378.cdn.ngenix.net/nashe_novoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://vits.tv/images/tvstation/russia/kinohit.png" group-title="Фильмы и сериалы",Кинохит
@@ -114,7 +114,7 @@ http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://www.cableman.ru/channel/kinouzhas" group-title="Фильмы и сериалы",Киноужас
 https://s70378.cdn.ngenix.net/kinouzhas/index.m3u8
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://tv.rambler.ru/moskva/channel/kinosvidanie/" group-title="Фильмы и сериалы",Киносвидание
-http://31.210.208.171:8080/kinosvidanie/index.m3u8?token=+W2MSER
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-id="russkiyroman" tvg-logo="https://rusroman.ru/favIcons/android-chrome-192x192.png" group-title="Фильмы и сериалы",Русский роман
 http://193.25.8.59:8000/rusroman
 #EXTINF:-1 tvg-id="kino24" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a6/Kino_24.png/revision/latest?cb=20160719101653&path-prefix=ru" group-title="Фильмы и сериалы",Kino24
@@ -125,10 +125,6 @@ http://188.225.31.197/bpk-tv/000001662/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000007815/tve/index.m3u8
 #EXTINF:-1 tvg-id="start-world" tvg-logo="https://tvtvtv.ru/logos/start_world.png" group-title="Фильмы и сериалы",Start World HD
 http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
-#EXTINF:-1 tvg-id="romance-channel" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/4b/TDC_%28Timeless_Dizi_Channel%29.png/revision/latest?cb=20250401163105&path-prefix=ru" group-title="Фильмы и сериалы",Romance Channel
-http://193.25.8.59:8000/tlc
-#EXTINF:-1 tvg-id="kinoliving" tvg-logo="https://epg.iptvx.one/picons/kinoliving.png" group-title="Фильмы и сериалы",Kinoliving (Временно не работает)
-http://91.226.120.120/chid413/mono.m3u8
 #EXTINF:-1 tvg-id="india" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/720/3cc9pn25uaq11ltx5l7ihpsyn0t9h0h8/160_160_1/000000237.png" group-title="Фильмы и сериалы",Индия
 http://31.210.208.171:8080/indiya/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="ostrosujetnoe-hd" tvg-logo="https://epg.iptvx.one/picons/ostrosiuzhetnoe-hd.png" group-title="Фильмы и сериалы",Остросюжетное HD
@@ -152,7 +148,7 @@ http://31.210.208.171:8080/komedia/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="nashe-lubimoe-kino" tvg-logo="https://ntvplus.tv/files/image/01/17/25/7y1.png" group-title="Фильмы и сериалы",Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 tvg-id="mir-seriala" tvg-logo="https://static.tildacdn.com/tild6566-3962-4635-b737-386461666133/MIR_SERIALA_3D.png" group-title="Фильмы и сериалы",Мир сериала
-http://94.236.201.114/MIR_SERIALA_SD/tracks-v1a1/mono.m3u8
+http://94.236.201.114/MIR_SERIALA_SD/mono.m3u8
 #EXTINF:-1 tvg-id="nastoyashee-strashnoe" tvg-logo="https://smotret-tv.live/images/nst_tv.png" group-title="Фильмы и сериалы",НСТ
 http://176.118.197.101/HCT/index.m3u8
 #EXTINF:-1 tvg-id="russliy-detektiv" tvg-logo="https://rudetective.tv/favIcons/android-chrome-192x192.png" group-title="Фильмы и сериалы",Русский детектив
@@ -186,15 +182,13 @@ http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-logo="https://epg.iptvx.one/picons/hollywood-hd.png" group-title="Фильмы и сериалы",Hollywood HD
 http://46.32.176.50/HollywoodHD/index.m3u8
 #EXTINF:-1 tvg-id="kinomix-nastroykino" tvg-logo="https://tv.rambler.ru/epg/logo/000000138.png" group-title="Фильмы и сериалы",Киномикс
-http://93.170.254.17/Kinomiks/index.m3u8
+
 #EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://ntvplus.tv/files/image/27/19/89/yjy.png" group-title="Фильмы и сериалы",НТВ Сериал
 https://cdn.ntv.ru/th_serial/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-hit" tvg-logo="https://ramnet.ru/tv/logo/000003615.png" group-title="Фильмы и сериалы",НТВ Хит
 https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="mujskoekino-nastroykino" tvg-logo="https://www.cableman.ru/sites/default/files/muzhskoe_kino.png" group-title="Фильмы и сериалы",Мужское кино
-https://stream8.cinerama.uz/1237/mono.m3u8
-#EXTINF:-1 tvg-id="kino-1-international" tvg-logo="https://dbtv.ru/upload/icons/kino1int-tviksel.png" group-title="Фильмы и сериалы",Кино 1 International (Временно не работает)
-http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+https://s80718.cdn.ngenix.net//hls//CH_MUJSKOE_KINOHD//variant.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://www.cableman.ru/sites/default/files/viju_TV1000_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0_color_rgb_02%20%281%29.png" group-title="Фильмы и сериалы",viju TV1000 Новелла
 http://46.53.208.4:80/live/545-req_offset_28000000.m3u8
 #EXTINF:-1 tvg-id="kino-i-jizn" tvg-logo="https://programma-peredach.com/img/ch/200/kino-i-zhizn.png" group-title="Фильмы и сериалы",Кино и Жизнь HD
@@ -271,12 +265,11 @@ http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/yKCa_HaFPF4otm6Yej565Q,1776712866/streaming/firstvegan/324/1/index.m3u8
 #EXTINF:-1 tvg-id="eda" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032929595611_57.png" group-title="Развлекательное",Еда
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
-https://mhd128.iptv2022.com/p/_JKNDeAQ3fRFXNtqrmcEcg,1776712866/streaming/eda/324/1/mono.m3u8
+
 #EXTINF:-1 tvg-id="teledom" tvg-logo="https://vits.tv/images/tvstation/russia/teledom.png" group-title="Развлекательное",ТелеДом
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="zhara" tvg-logo="https://podarokangelu.com/uploads/smi/logo/63052947be0b9424298005.png" group-title="Развлекательное" group-title="Музыкальное",ЖАРА
-http://tv.woobl.ru/zhara_hd/video.m3u8?token=test441122
+http:\\tv.woobl.ru\zhara_hd\video.m3u8?token=test344
 #EXTINF:-1 tvg-id="russian-extreme" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/b2c/h8s9jrh2ibt3t5ap83l7fp47n7zkscaw/160_160_1/000000103.png" group-title="Развлекательное",Russian Extreme
 http://195.26.83.96:7029/play/a008
 #EXTINF:-1 tvg-id="neizvestnaya-rossiya" tvg-logo="https://www.gazprom-media.com/storage/uploads/channel/logo_hover/0/8/747/8747/46b698b722a2b4940ecfaa0a4c84d3f6.png" group-title="Познавательное",Неизвестная Россия HD
@@ -380,8 +373,8 @@ https://s70378.cdn.ngenix.net/malish/index.m3u8
 http://sirius.greenhosting.ru/MamontRu/video.m3u8
 #EXTINF:-1 tvg-id="jim-jam" tvg-logo="https://www.cableman.ru/sites/default/files/jimjam_0.png" group-title="Детское",JimJam
 http://158.160.149.81:8080/269/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sts-kids" tvg-logo="https://www.cableman.ru/sites/default/files/ctc_kids.png" group-title="Детское",СТС Kids
-http://195.26.83.96:7006/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="sts-kids" tvg-logo="https://www.cableman.ru/sites/default/files/ctc_kids.png" group-title="Детское",СТС Kids HD
+http://31148.rafail1982.uz/STS_Kids_HD/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ducktv-hd" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/31/Duck_TV.png/revision/latest/scale-to-width-down/250?cb=20170210045108&path-prefix=ru" group-title="Детское",DuckTV
 http://46.53.208.4:80/live/1492-req_offset_28000000.m3u8
 #EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://smotret-tv.live/images/cartoonito.png" group-title="Детское",Cartoonito
@@ -409,7 +402,7 @@ https://bl.rutube.ru/livestream/0064bd09060c8b8469fef19f269e8a8a/index.m3u8?s=fk
 #EXTINF:-1 tvg-id="muz1" tvg-logo="https://www.cableman.ru/sites/default/files/muzyka_pervogo_0.png" group-title="Музыкальное",Музыка Первого
 https://stream8.cinerama.uz/1201/mono.m3u8
 #EXTINF:-1 tvg-id="music-box-russia" tvg-logo="https://smotreshka.server-img.lfstrm.tv/images/channel_logos/logo_535f5e36ebf8c403a1001bde.png" group-title="Музыкальное",RUSSIAN MUSIC BOX
-http://tv.woobl.ru/russian_music_box_hd/video.m3u8?token=test441122
+http://tv.woobl.ru/russian_music_box_hd/video.m3u8?token=test344
 #EXTINF:-1 tvg-id="1hd" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/02/1HD_2_%28без_надписи%29.png/revision/latest?cb=20170301113719&path-prefix=ru" group-title="Музыкальное",1HD
 http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
 #EXTINF:-1 tvg-id="jar-ptica" tvg-logo="https://zhar-ptica.tv/sites/default/files/logo.png" group-title="Музыкальное",Жар Птица
