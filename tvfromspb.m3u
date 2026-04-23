@@ -49,8 +49,7 @@ http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_78CHANNELHD.m3u8
 #EXTINF:-1 tvg-id="stslove" tvg-logo="https://tv.rambler.ru/epg/logo/000003144.png" group-title="Развлекательное",СТС Love
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 tvg-id="pobeda-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Pobeda_logo_tele%28k%29%28ch%29a%28na%29%28nne%29l.png" group-title="Фильмы и сериалы",Победа
-#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
-https://streaming.thestream.cyou/live/43-req_offset_28000000.m3u8
+https://fs.uplink.kz/pobeda/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="moskva24" tvg-logo="https://toplogos.ru/images/logo-moskva-24.png" group-title="Региональное",МОСКВА 24
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:-1 tvg-logo="https://smotrim.ru/i/smotrim_logo_soc_new.png" group-title="Фильмы и сериалы",Cмотрим: Кино и Сериалы
@@ -77,7 +76,7 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/mono.m3u8
 #EXTINF:-1 tvg-id="1tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/LOGO_Первый_канал_Евразия.png",Первый канал Евразия
 http://188.225.31.197/bpk-tv/000000669/tve/index.m3u8
 #EXTINF:-1 tvg-id="rentvinterntional" tvg-logo="https://images.seeklogo.com/logo-png/46/1/ren-tv-international-2022-logo-png_seeklogo-469386.png",Рен ТВ International
-https://a3569457567-s70378.cdn.ngenix.net/ren_tv/index.m3u8
+https://s70378.cdn.ngenix.net/ren_tv/index.m3u8
 #EXTINF:-1 tvg-id="Russia1" tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/RTR_Planeta.png",Россия РТР
 https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
 #EXTINF:-1 tvg-id="rbk" tvg-logo="https://atlasesthetics.ru/upload/iblock/3c8/mag57385ikz37i27c9dozm7120ply641/133_all_1721986226.png" group-title="Информационное",РБК
@@ -143,9 +142,9 @@ http://193.25.8.59:8000/domkino
 #EXTINF:-1 tvg-id="domkinopremium" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/dc1/dot2dan77bkph0y3ip0yehox3czc12bh/160_160_1/000002943.png" group-title="Фильмы и сериалы",Дом кино Премиум HD
 http://188.225.31.197/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:-1 tvg-id="kinotv" tvg-logo="https://ramnet.ru/tv/logo/000000558.png" group-title="Фильмы и сериалы",Кино ТВ HD
-http://31.210.208.171:8080/kinotv/index.m3u8?token=+W2MSER
+http://31.148.48.15/Kino_TV_HD/mono.ts.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" group-title="Фильмы и сериалы",Комедия
-http://31.210.208.171:8080/komedia/index.m3u8?token=+W2MSER
+http://37.46.49.14:18010/play/a09h/index.m3u8
 #EXTINF:-1 tvg-id="nashe-lubimoe-kino" tvg-logo="https://ntvplus.tv/files/image/01/17/25/7y1.png" group-title="Фильмы и сериалы",Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 tvg-id="mir-seriala" tvg-logo="https://static.tildacdn.com/tild6566-3962-4635-b737-386461666133/MIR_SERIALA_3D.png" group-title="Фильмы и сериалы",Мир сериала
@@ -157,17 +156,17 @@ https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
 #EXTINF:-1 tvg-id="saphir" tvg-logo="https://mt.media/upload/iblock/e1d/e1d844cdede445c8022f5262dd35cbfd.png" group-title="Фильмы и сериалы",САПФИР HD
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
 #EXTINF:-1 tvg-id="kineko" tvg-logo="https://mt.media/upload/iblock/244/244d1ac99a98645f85a9152a6fc0e0e4.png" group-title="Фильмы и сериалы",Кинеко
-http://193.25.8.59:8000/fox
+http://188.225.31.197/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://ramnet.ru/tv/logo/000000321.png" group-title="Развлекательное",ТНТ4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 tvg-id="zhivaya_planeta" tvg-logo="https://vits.tv/images/tvstation/russia/zhivaya-planeta.png" group-title="Познавательное",Живая планета
-http://185.46.16.239:8000/Zhivaya_Planeta
+https://stream8.cinerama.uz/1250/mono.m3u8
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="http://vsewtv.top/img/amedia-1.jpg" group-title="Фильмы и сериалы",A1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 tvg-id="amedia2" tvg-logo="http://vsewtv.top/img/amedia-2.jpg" group-title="Фильмы и сериалы",A2
 http://158.101.222.193:88/georgia_play.php?id=amedia2
 #EXTINF:-1 tvg-id="o" tvg-logo="https://smotret-tv.live/images/o-kanal.png" group-title="Детское",О!
-https://fs.uplink.kz/o/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/o/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="mosfilm-zolotayakollektciya" tvg-logo="https://ntvplus.tv/files/image/88/39/72/wua.png" group-title="Фильмы и сериалы",Мосфильм. Золотая коллекция
 http://77.245.98.18:8000/play/a01i
 #EXTINF:-1 tvg-id="viju-tv1000" tvg-logo="https://ntvplus.tv/files/image/80/00/02/2qx.png" group-title="Фильмы и сериалы",viju TV1000 HD
@@ -183,7 +182,7 @@ http://188.225.31.197/bpk-tv/000001419/tve/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-logo="https://epg.iptvx.one/picons/hollywood-hd.png" group-title="Фильмы и сериалы",Hollywood HD
 http://46.32.176.50/HollywoodHD/index.m3u8
 #EXTINF:-1 tvg-id="kinomix-nastroykino" tvg-logo="https://tv.rambler.ru/epg/logo/000000138.png" group-title="Фильмы и сериалы",Киномикс
-
+https://s80718.cdn.ngenix.net//hls//CH_KINOMIXHD//variant.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://ntvplus.tv/files/image/27/19/89/yjy.png" group-title="Фильмы и сериалы",НТВ Сериал
 https://cdn.ntv.ru/th_serial/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-hit" tvg-logo="https://ramnet.ru/tv/logo/000003615.png" group-title="Фильмы и сериалы",НТВ Хит
@@ -217,7 +216,7 @@ http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:-1 tvg-id="amediapremium-hd" tvg-logo="http://vsewtv.top/img/amedia-premium.jpg" group-title="Фильмы и сериалы",Amedia Premium HD
 http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
 #EXTINF:-1 tvg-id="fantastic-animation" tvg-logo="https://fantv.ru/favIcons/android-chrome-192x192.png" group-title="Фильмы и сериалы",FAN
-http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
+http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-action" tvg-logo="https://ntvplus.tv/files/image/79/84/34/q25.png" group-title="Фильмы и сериалы",viju TV1000 Action HD
 https://stream8.cinerama.uz/1225/mono.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://www.cableman.ru/sites/default/files/sarafan.png" group-title="Развлекательное",Сарафан
