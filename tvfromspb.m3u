@@ -9,11 +9,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://ntvplus.tv/files/image/88/63/54/fl9.png" group-title="Общероссийские",НТВ
 http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_NTV.m3u8
 #EXTINF:-1 tvg-id="5-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/1200px-5-tv_logo_%282023%29.svg.png" group-title="Общероссийские",Пятый
-http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_5TV.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-id="russia-k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/3-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0.svg/150px-3-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0.svg.png" group-title="Общероссийские",Россия К
 http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_ROSSIAK.m3u8
 #EXTINF:-1 tvg-id="russia24" tvg-logo="https://ramnet.ru/tv/logo/000000198.png" group-title="Общероссийские",Россия 24
-http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_ROSSIA24.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="karosel" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/86/%D0%9A%D0%B0%D1%80%D1%83%D1%81%D0%B5%D0%BB%D1%8C_%2809.2012%29.png" group-title="Общероссийские",Карусель
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://ramnet.ru/tv/logo/000000636.png" group-title="Общероссийские",ОТР
@@ -23,7 +23,7 @@ http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_TVC.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="https://iks-online.net/storage/2018/07/REN-TV-HD.png" group-title="Общероссийские",Рен ТВ
 http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_RENTV.m3u8
 #EXTINF:-1 tvg-id="spastv" tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-spas.jpg" group-title="Общероссийские",СПАС
-https://a3569457554-zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/video_800x450_avc1/playlist.m3u8?useseq=t
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
 #EXTINF:-1 tvg-id="sts" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/6/6f/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%D0%B0_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%A1%C2%BB.svg/1200px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%D0%B0_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%A1%C2%BB.svg.png" group-title="Общероссийские",СТС
 http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_STS.m3u8
 #EXTINF:-1 tvg-id="domashniy" tvg-logo="https://ramnet.ru/tv/logo/000000051.png" group-title="Общероссийские",Домашний
@@ -43,13 +43,14 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 tvg-id="solovievlive" tvg-logo="https://smotret-tv.live/images/solovev-live.png" group-title="Общероссийские",Соловьёв LIVE
 https://bl.rutube.ru/livestream/c9b87c0b00cfff9b37f95b9c8e4eed42/index.m3u8?s=aq7HXyWPHN35scCCiXmEtw&e=2074726143&scheme=https
 #EXTINF:-1 tvg-id="spb-tv" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/ab/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3.png" group-title="Региональное",Санкт-Петербург
-https://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=e4d0b9ee2560c8d72aceda831ebde9ea
+https://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream/mono.ts.m3u8?hls_proxy_host=e4d0b9ee2560c8d72aceda831ebde9ea
 #EXTINF:-1 tvg-id="78" tvg-logo="https://uut-telecom.ru/wp-content/uploads/2021/12/78-hd.png" group-title="Региональное",78
 http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_78CHANNELHD.m3u8
 #EXTINF:-1 tvg-id="stslove" tvg-logo="https://tv.rambler.ru/epg/logo/000003144.png" group-title="Развлекательное",СТС Love
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 tvg-id="pobeda-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Pobeda_logo_tele%28k%29%28ch%29a%28na%29%28nne%29l.png" group-title="Фильмы и сериалы",Победа
-https://pkvc-hls7.cdnvideo.ru/pkvc/pobeda/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=951f88b726ecd199ff293e3eaf4810e7
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.thestream.cyou/live/43-req_offset_28000000.m3u8
 #EXTINF:-1 tvg-id="moskva24" tvg-logo="https://toplogos.ru/images/logo-moskva-24.png" group-title="Региональное",МОСКВА 24
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:-1 tvg-logo="https://smotrim.ru/i/smotrim_logo_soc_new.png" group-title="Фильмы и сериалы",Cмотрим: Кино и Сериалы
