@@ -8,7 +8,7 @@ http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_ROSSIA1.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://ntvplus.tv/files/image/88/63/54/fl9.png" group-title="Общероссийские",НТВ
 http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_NTV.m3u8
-#EXTINF:-1 tvg-id="5-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/1200px-5-tv_logo_%282023%29.svg.png" group-title="Общероссийские",Пятый
+#EXTINF:-1 tvg-id="5-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/1200px-5-tv_logo_%282023%29.svg.png" group-title="Общероссийские",5 канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-id="russia-k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/3-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0.svg/150px-3-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0.svg.png" group-title="Общероссийские",Россия К
 http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_ROSSIAK.m3u8
@@ -40,7 +40,7 @@ http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_MIR.m3u8
 http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_TNT.m3u8
 #EXTINF:-1 tvg-id="muz-tv" tvg-logo="https://media1.ru/upload/iblock/5e5/jjc0qmvqlmf9xco8ju3gmqgxhdt8y3xr/logo_efir_01.png" group-title="Общероссийские",МУЗ ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 tvg-id="solovievlive" tvg-logo="https://smotret-tv.live/images/solovev-live.png" group-title="Общероссийские",Соловьёв LIVE
+#EXTINF:-1 tvg-id="solovievlive" tvg-logo="https://smotret-tv.live/images/solovev-live.png" group-title="Общероссийские",Соловьев Live
 https://bl.rutube.ru/livestream/c9b87c0b00cfff9b37f95b9c8e4eed42/index.m3u8?s=aq7HXyWPHN35scCCiXmEtw&e=2074726143&scheme=https
 #EXTINF:-1 tvg-id="spb-tv" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/ab/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3.png" group-title="Региональное",Санкт-Петербург
 https://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream/mono.ts.m3u8?hls_proxy_host=e4d0b9ee2560c8d72aceda831ebde9ea
@@ -222,7 +222,7 @@ https://stream8.cinerama.uz/1225/mono.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://www.cableman.ru/sites/default/files/sarafan.png" group-title="Развлекательное",Сарафан
 https://stream8.cinerama.uz/1249/index.m3u8
 #EXTINF:-1 tvg-id="kuhnya" tvg-logo="https://www.cableman.ru/sites/default/files/Kuhnya.png" group-title="Развлекательное",КУХНЯ ТВ
-http://31.210.208.171:8080/kuhnya/index.m3u8?token=+W2MSER
+http://77.245.98.18:8000/play/a01l
 #EXTINF:-1 tvg-id="anekdot-tv" tvg-logo="https://www.anekdottv.tv/upload/iblock/57c/57ccb3041375893cf583e73cf2a10d87.png" group-title="Развлекательное",Анекдот ТВ
 http://188.225.31.197/bpk-tv/000001921/tve/index.m3u8
 #EXTINF:-1 tvg-id="sony-red" tvg-logo="https://smotret-tv.live/images/red-kanal.png" group-title="Развлекательное",.red HD
@@ -269,7 +269,7 @@ https://mhd128.iptv2022.com/p/yKCa_HaFPF4otm6Yej565Q,1776712866/streaming/firstv
 #EXTINF:-1 tvg-id="teledom" tvg-logo="https://vits.tv/images/tvstation/russia/teledom.png" group-title="Развлекательное",ТелеДом
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="zhara" tvg-logo="https://podarokangelu.com/uploads/smi/logo/63052947be0b9424298005.png" group-title="Развлекательное" group-title="Музыкальное",ЖАРА
-http:\\tv.woobl.ru\zhara_hd\video.m3u8?token=test344
+http://tv.woobl.ru/zhara_hd/video.m3u8?token=test3445
 #EXTINF:-1 tvg-id="russian-extreme" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/b2c/h8s9jrh2ibt3t5ap83l7fp47n7zkscaw/160_160_1/000000103.png" group-title="Развлекательное",Russian Extreme
 http://195.26.83.96:7029/play/a008
 #EXTINF:-1 tvg-id="neizvestnaya-rossiya" tvg-logo="https://www.gazprom-media.com/storage/uploads/channel/logo_hover/0/8/747/8747/46b698b722a2b4940ecfaa0a4c84d3f6.png" group-title="Познавательное",Неизвестная Россия HD
@@ -374,7 +374,7 @@ http://sirius.greenhosting.ru/MamontRu/video.m3u8
 #EXTINF:-1 tvg-id="jim-jam" tvg-logo="https://www.cableman.ru/sites/default/files/jimjam_0.png" group-title="Детское",JimJam
 http://158.160.149.81:8080/269/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sts-kids" tvg-logo="https://www.cableman.ru/sites/default/files/ctc_kids.png" group-title="Детское",СТС Kids HD
-http://31148.rafail1982.uz/STS_Kids_HD/mono.ts.m3u8
+http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="ducktv-hd" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/31/Duck_TV.png/revision/latest/scale-to-width-down/250?cb=20170210045108&path-prefix=ru" group-title="Детское",DuckTV
 http://46.53.208.4:80/live/1492-req_offset_28000000.m3u8
 #EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://smotret-tv.live/images/cartoonito.png" group-title="Детское",Cartoonito
@@ -402,7 +402,7 @@ https://bl.rutube.ru/livestream/0064bd09060c8b8469fef19f269e8a8a/index.m3u8?s=fk
 #EXTINF:-1 tvg-id="muz1" tvg-logo="https://www.cableman.ru/sites/default/files/muzyka_pervogo_0.png" group-title="Музыкальное",Музыка Первого
 https://stream8.cinerama.uz/1201/mono.m3u8
 #EXTINF:-1 tvg-id="music-box-russia" tvg-logo="https://smotreshka.server-img.lfstrm.tv/images/channel_logos/logo_535f5e36ebf8c403a1001bde.png" group-title="Музыкальное",RUSSIAN MUSIC BOX
-http://tv.woobl.ru/russian_music_box_hd/video.m3u8?token=test344
+http://tv.woobl.ru/russian_music_box_hd/video.m3u8?token=test3445
 #EXTINF:-1 tvg-id="1hd" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/02/1HD_2_%28без_надписи%29.png/revision/latest?cb=20170301113719&path-prefix=ru" group-title="Музыкальное",1HD
 http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
 #EXTINF:-1 tvg-id="jar-ptica" tvg-logo="https://zhar-ptica.tv/sites/default/files/logo.png" group-title="Музыкальное",Жар Птица
