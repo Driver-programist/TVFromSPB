@@ -389,7 +389,7 @@ http://46.53.208.4:80/live/157-req_offset_28000000.m3u8
 #EXTINF:-1 tvg-id="v-gostyzh-u-skazki" tvg-logo="https://avatars.mds.yandex.net/get-ott/2419418/2a0000018635386f891cc8aee934748bc23f/orig" group-title="Детское",В гостях у сказки
 https://stream8.cinerama.uz/1270/index.m3u8
 #EXTINF:-1 tvg-id="ani" tvg-logo="https://ani.tlum.ru/assets/website/additional-sites/ani/images/logo.png" group-title="Детское",Ani
-http://185.46.16.239:8000/Ani
+http://46.32.176.50/anitv/index.m3u8
 #EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://www.cableman.ru/sites/default/files/radostmoya.png" group-title="Детское",Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 #EXTINF:-1 tvg-id="vitrina-tv" tvg-logo="https://online-red.com/images/tv/vitrinatv.png" group-title="Телемагазины",Витрина ТВ
