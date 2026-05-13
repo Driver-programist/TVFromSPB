@@ -420,21 +420,21 @@ https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=Co
 http://tv.woobl.ru/bridge_tv_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-logo="https://static.okko.tv/images/v4/d89aa07e-652a-4f33-bd94-ed1346bc368a" group-title="Музыкальное",BRIDGE TV РУССКИЙ ХИТ
 http://tv.woobl.ru/bridge_russkiy_hit_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-logo="https://ip.ontivi.net/img/bridge-classic.png" group-title="Музыкальное",BRIDGE CLASSIC
+#EXTINF:-1 tvg-logo="https://ip.ontivi.net/img/bridge-classic.png" group-title="Музыкальное",Bridge TV Classic
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsmUBiGl25GKzw6C4lIHoogR_vDKx0qfJYIA&s" group-title="Музыкальное" audio-track="rus",Mezzo
 http://158.101.222.193:88/georgia_play.php?id=mezzo
-#EXTINF:-1 tvg-logo="https://smotret-tv.live/images/bridge-tv-hits.png" group-title="Музыкальное",BRIDGE HITS
+#EXTINF:-1 tvg-logo="https://smotret-tv.live/images/bridge-tv-hits.png" group-title="Музыкальное",BRIDGE TV Hits
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
-#EXTINF:-1 tvg-logo="https://vits.tv/images/tvstation/russia/bridge-tv-deluxe.png" group-title="Музыкальное",BRIDGE DELUXE HD
+#EXTINF:-1 tvg-logo="https://vits.tv/images/tvstation/russia/bridge-tv-deluxe.png" group-title="Музыкальное",BRIDGE TV DELUXE HD
 http://46.32.176.50/BridgeTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/d8/Логотип_радиостанции_Страна_FM.png/250px-Логотип_радиостанции_Страна_FM.png" group-title="Музыкальное",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e6/Bridge_%D0%A8%D0%BB%D1%8F%D0%B3%D0%B5%D1%80_%28%D1%81_2021%2C_%D1%8D%D1%84%D0%B8%D1%80%29.png/revision/latest/scale-to-width-down/250?cb=20220825150817&path-prefix=ru" group-title="Музыкальное",BRIDGE ШЛЯГЕР
 http://193.25.8.59:8000/mtv
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/27/Bridge_Rock_%282023%2C_%D0%B1%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D1%8B%D0%B9%29.png/revision/latest/scale-to-width-down/250?cb=20230824100008&path-prefix=ru" group-title="Музыкальное",BRIDGE ROCK
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/27/Bridge_Rock_%282023%2C_%D0%B1%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D1%8B%D0%B9%29.png/revision/latest/scale-to-width-down/250?cb=20230824100008&path-prefix=ru" group-title="Музыкальное",BRIDGE TV ROCK
 http://tv.woobl.ru/bridge_rock_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/8e/Bridge_TV_%D0%A4%D1%80%D1%8D%D1%88_%282021%2C_%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5_%D0%B1%D1%83%D0%BA%D0%B2%D1%8B%29.png/revision/latest/scale-to-width-down/250?cb=20210825152226&path-prefix=ru" group-title="Музыкальное",BRIDGE ФРЭШ
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/8e/Bridge_TV_%D0%A4%D1%80%D1%8D%D1%88_%282021%2C_%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5_%D0%B1%D1%83%D0%BA%D0%B2%D1%8B%29.png/revision/latest/scale-to-width-down/250?cb=20210825152226&path-prefix=ru" group-title="Музыкальное",BRIDGE TV ФРЭШ
 http://tv.woobl.ru/bridge_tv_fresh_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSCaE8YBEEbra6RuARI6E1tIzbMzqqs-hKw&s" group-title="Музыкальное",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
@@ -448,7 +448,7 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdnmusiclive.red-media.ru/wp-content/uploads/2025/04/logo2025-orange.png" group-title="Музыкальное",Ля-минор
 https://stream8.cinerama.uz/1238/mono.m3u8
-#EXTINF:-1 tvg-logo="https://obob.tv/wp-content/uploads/2024/11/876544.png" group-title="Музыкальное",BRIDGE ЭТНО
+#EXTINF:-1 tvg-logo="https://obob.tv/wp-content/uploads/2024/11/876544.png" group-title="Музыкальное",BRIDGE TV ЭТНО
 http://89.218.32.179:18000/play/a02n
 #EXTINF:-1 tvg-logo="https://mixmtv.ru/gallery/MIX-M-1-0-ts1695106752.png" group-title="Музыкальное",MIXM TV
 https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=ykynMV9FL9oIO13X0Q4Y1g&e=2069154903&scheme=https
