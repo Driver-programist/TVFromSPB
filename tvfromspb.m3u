@@ -368,6 +368,8 @@ https://s70378.cdn.ngenix.net/rtg_hd/index.m3u8
 https://stream8.cinerama.uz/1413/index.m3u8
 #EXTINF:-1 tvg-id="tochka-rf" tvg-logo="https://www.nicepng.com/png/full/284-2843034_source-national-geographic-logo-white.png" group-title="Познавательное",Точка.РФ
 https://stream8.cinerama.uz/1222/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/discovery.jpg" group-title="Познавательное",Discovery Channel HD
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 #EXTINF:-1 tvg-id="eda-premium" tvg-name="Еда Премиум" tvg-logo="https://telik.live/images/foodtime.png" group-title="Познавательное",Food Time
 http://31.148.48.15/Eda_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="zagorodnaya-jizn" tvg-logo="https://static.tildacdn.com/tild3466-3338-4531-b264-666537323566/-emblem-small.png" group-title="Познавательное",Загородная жизнь
