@@ -349,9 +349,8 @@ http://31148.rafail1982.uz/Zoo_TV/mono.ts.m3u8
 https://cdn.ntv.ru/th_pravo/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-stil" tvg-logo="https://cdn-b2c.dom.ru/epg/chlogo/1705582054.png" group-title="Познавательное",НТВ Стиль
 https://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://www.cableman.ru/sites/default/files/logo_myplanet_color_text_1.png" group-title="Познавательное",Моя Планета
-#EXTVLCOPT:http-user-agent=IPTV
-http://uiptv.do.am/1ufc/312275719/playlist.m3u8
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://www.cableman.ru/sites/default/files/logo_myplanet_color_text_1.png" group-title="Познавательное",Моя планета HD
+http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/topsecret.png" group-title="Познавательное",Top Secret
 #EXTVLCOPT:http-referrer=https://sovsekretno.tv/
 https://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
