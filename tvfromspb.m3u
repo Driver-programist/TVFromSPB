@@ -169,7 +169,7 @@ http://46.32.176.50/paramountchannel/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s70378.cdn.ngenix.net/filmbox/index.m3u8
 #EXTINF:-1 tvg-id="cinema" tvg-logo="https://images.iptv.rt.ru/images/ch4dilrmhk079s3jpgmg.png" group-title="Фильмы и сериалы",Cinema
-http://185.46.16.239:8000/Cinema
+http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 tvg-id="jtx-online" tvg-logo="https://jtx-online.ru/logo/logo.png" tvg-name="JTX Online" group-title="Фильмы и сериалы",JTX
 http://kinowalk.hopto.org/jtxonline_live
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://www.domkino.tv/images/logo.png" group-title="Фильмы и сериалы",Дом кино
@@ -394,8 +394,9 @@ http://31148.rafail1982.uz/Teleputeshestviya/mono.ts.m3u8
 https://stream8.cinerama.uz/1228/mono.m3u8
 #EXTINF:-1 tvg-id="zdorovoe-tv" tvg-logo="https://www.cableman.ru/sites/default/files/zdorovoe_tv_1.png" group-title="Познавательное",Здоровое ТВ
 https://stream8.cinerama.uz/1428/mono.m3u8
-#EXTINF:-1 tvg-id="mult" tvg-logo="https://smotret-tv.live/images/mult.png" group-title="Детское",Мульт HD
-http://185.46.16.239:8000/Mir_24
+#EXTINF:-1 tvg-id="mult" tvg-logo="https://smotret-tv.live/images/mult.png" group-title="Детское",МУЛЬТ
+#EXTVLCOPT:http-user-agent=IPTV
+http://89.218.32.179:18000/play/a03j
 #EXTINF:-1 tvg-id="smayl-tv" tvg-logo="https://www.cableman.ru/sites/default/files/3d.png" group-title="Детское",Смайлик ТВ
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="detskiy-mir" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/67/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%BB%D1%83%D0%B1_%282003%2C_%D1%8D%D1%84%D0%B8%D1%80%D0%BD%D1%8B%D0%B9%2C_%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%B9_%D1%86%D0%B2%D0%B5%D1%82%29.png/revision/latest?cb=20170912082125&path-prefix=ru" group-title="Детское",Детский мир
@@ -441,7 +442,8 @@ http://sirius.greenhosting.ru/MamontRu/video.m3u8
 #EXTINF:-1 tvg-id="jim-jam" tvg-logo="https://www.cableman.ru/sites/default/files/jimjam_0.png" group-title="Детское",JimJam
 http://158.160.149.81:8080/269/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sts-kids" tvg-logo="https://www.cableman.ru/sites/default/files/ctc_kids.png" group-title="Детское",СТС Kids
-https://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
+#EXTVLCOPT:http-user-agent=IPTV
+http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="ducktv-hd" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/31/Duck_TV.png/revision/latest/scale-to-width-down/250?cb=20170210045108&path-prefix=ru" group-title="Детское",DuckTV
 https://stream8.cinerama.uz/1271/mono.m3u8
 #EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://smotret-tv.live/images/cartoonito.png" group-title="Детское",Cartoonito
@@ -464,7 +466,7 @@ https://tvshops.bonus-tv.ru/cdn/shop24/mono.ts.m3u8?token=cdn
 https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=-ekSvA--y55BJ6IVuWHtRw&e=2074123164&scheme=https
 #EXTINF:-1 tvg-id="luxury-hd" tvg-logo="https://ramnet.ru/tv/logo/000001654.png" group-title="Телемагазины",LUXURY
 http://s1.tv-nano.com/Luxury_rec/video.m3u8
-#EXTINF:-1 tvg-id="moy-mir" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlisq9Xv32SCwTL49T8gJLHy_-qpgc_f1chQ&s" group-title="Телемагазины",Мой Мир
+#EXTINF:-1 tvg-id="moy-mir" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlisq9Xv32SCwTL49T8gJLHy_-qpgc_f1chQ&s" group-title="Телемагазины",Мой мир
 https://bl.rutube.ru/livestream/0064bd09060c8b8469fef19f269e8a8a/index.m3u8?s=fktGw8Kd9K9uMnU2M0Y7cw&e=2074123192&scheme=https
 #EXTINF:-1 tvg-id="muz1" tvg-logo="https://www.cableman.ru/sites/default/files/muzyka_pervogo_0.png" group-title="Музыкальное",Музыка Первого
 https://stream8.cinerama.uz/1201/mono.m3u8
@@ -477,7 +479,7 @@ https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=Co
 #EXTINF:-1 tvg-logo="https://bridgemedia.ru/s/uploads/bridge-tv-logo-1477995292.png" group-title="Музыкальное",BRIDGE TV
 http://tv.woobl.ru/bridge_tv_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-logo="https://static.okko.tv/images/v4/d89aa07e-652a-4f33-bd94-ed1346bc368a" group-title="Музыкальное",BRIDGE TV РУССКИЙ ХИТ
-http://tv.woobl.ru/bridge_russkiy_hit_hd/video.m3u8?token=test55555
+http://tv.woobl.ru/bridge_russkiy_hit/video.m3u8?token=test55555
 #EXTINF:-1 tvg-logo="https://ip.ontivi.net/img/bridge-classic.png" group-title="Музыкальное",Bridge TV Classic
 http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsmUBiGl25GKzw6C4lIHoogR_vDKx0qfJYIA&s" group-title="Музыкальное" audio-track="rus",Mezzo
