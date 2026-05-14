@@ -216,7 +216,7 @@ http://77.245.98.18:8000/play/a011
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s70378.cdn.ngenix.net/sony_sci_fi/index.m3u8
 #EXTINF:-1 tvg-id="telecafe" tvg-logo="http://vsewtv.top/img/telekafe.jpg" group-title="Фильмы и сериалы",Телекафе
-http://193.25.8.59:8000/telecafe
+https://fs.uplink.kz/telecafe/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="https://vits.tv/images/tvstation/russia/bollywood-hd.png" group-title="Фильмы и сериалы",Bollywood HD
 http://176.118.197.101/Bollywood_HD/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-logo="https://epg.iptvx.one/picons/hollywood-hd.png" group-title="Фильмы и сериалы",Hollywood HD
@@ -240,7 +240,7 @@ https://stream8.cinerama.uz/1047/mono.m3u8
 #EXTINF:-1 tvg-id="russkiy-bestceler" tvg-logo="https://yootv.host/images/logo-channel/rus-best-logo.png" group-title="Фильмы и сериалы",Русский бестселлер
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
 #EXTINF:-1 tvg-id="russkiy-illyuzion" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/25/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD_%28%D1%81_2018%2C_%D1%8D%D1%84%D0%B8%D1%80%29.png/revision/latest/scale-to-width-down/250?cb=20210626145715&path-prefix=ru" group-title="Фильмы и сериалы",Русский иллюзион
-http://185.46.16.239:8000/Russkiy_Illyuzion
+http://46.32.176.50/russkiyiluzion/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-logo="https://yootv.host/images/logo-channel/hollywood-tv.png" group-title="Фильмы и сериалы",Hollywood
 http://193.25.8.59:8000/interaz
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/9153.png" group-title="Фильмы и сериалы",viju TV1000 Romantica
@@ -250,7 +250,8 @@ https://stitch.teletarget.ru/vintera/movieseason/1767464056995ce05ea71b67648ff8d
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-logo="https://ramnet.ru/tv/logo/000000074.png" group-title="Фильмы и сериалы",Родное кино
 http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://ntvplus.tv/files/image/07/68/02/cdn.png" group-title="Фильмы и сериалы",Иллюзион+
-http://185.46.16.239:8000/Illyuzion+
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s70378.cdn.ngenix.net/illusion_plus/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9OPMLE.png" group-title="Фильмы и сериалы",Феникс+ Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 tvg-id="viju-tv1000-russkoe" tvg-logo="http://magtv.top/img/tv1000rus.jpg" group-title="Фильмы и сериалы",TV1000 Русское кино
@@ -309,6 +310,7 @@ https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="zhara" tvg-logo="https://podarokangelu.com/uploads/smi/logo/63052947be0b9424298005.png" group-title="Развлекательное" group-title="Музыкальное",ЖАРА
 https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
 #EXTINF:-1 tvg-id="russian-extreme" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/b2c/h8s9jrh2ibt3t5ap83l7fp47n7zkscaw/160_160_1/000000103.png" group-title="Развлекательное",Russian Extreme
+#EXTVLCOPT:http-user-agent=IPTV
 http://195.26.83.96:7029/play/a008
 #EXTINF:-1 tvg-id="neizvestnaya-rossiya" tvg-logo="https://www.gazprom-media.com/storage/uploads/channel/logo_hover/0/8/747/8747/46b698b722a2b4940ecfaa0a4c84d3f6.png" group-title="Познавательное",Неизвестная Россия HD
 https://cdn.ntv.ru/unknown_russia/mono.m3u8
@@ -321,16 +323,17 @@ https://stream8.cinerama.uz/1417/mono.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s70378.cdn.ngenix.net/vremia/index.m3u8
 #EXTINF:-1 tvg-id="doktor-tv" tvg-logo="https://yootv.host/images/logo-channel/doctor-tv.png" group-title="Познавательное",Доктор
-http://185.46.16.239:8000/Doktor
+https://stream8.cinerama.uz/1409/mono.m3u8
 #EXTINF:-1 tvg-id="nauka-2.0" tvg-logo="https://www.cableman.ru/sites/default/files/nauka_0.png" group-title="Познавательное",Наука 2.0
-http://185.46.16.239:8000/Nauka_2.0
+#EXTVLCOPT:http-user-agent=IPTV
+http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 tvg-id="istoriya" tvg-logo="https://ramnet.ru/tv/logo/000000635.png" group-title="Познавательное",История
 https://stream8.cinerama.uz/1266/mono.m3u8
 #EXTINF:-1 tvg-id="bolshaya-aziya" tvg-logo="https://ramnet.ru/tv/logo/000003175.png" group-title="Познавательное",Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/mono.ts.m3u8
 #EXTINF:-1 tvg-id="soyuz" tvg-logo="https://ramnet.ru/tv/logo/000000255.png" group-title="Познавательное",Союз HD
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/mono.ts.m3u8
-#EXTINF:-1 tvg-id="belros" tvg-name="ТРО" tvg-logo="https://ramnet.ru/tv/logo/000000253.png" group-title="Познавательное",Союзный
+#EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/000000253.png" group-title="Познавательное",Союзный
 https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=lMIiy2OqGAFzcrpyemCPRQ&e=2076626573&scheme=https
 #EXTINF:-1 tvg-id="sony-black" tvg-logo="https://smotret-tv.live/images/black-kanal.png" group-title="Познавательное",.black
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -346,9 +349,13 @@ http://31148.rafail1982.uz/Zoo_TV/mono.ts.m3u8
 https://cdn.ntv.ru/th_pravo/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-stil" tvg-logo="https://cdn-b2c.dom.ru/epg/chlogo/1705582054.png" group-title="Познавательное",НТВ Стиль
 https://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://www.cableman.ru/sites/default/files/logo_myplanet_color_text_1.png" group-title="Познавательное",Моя планета HD
-http://185.46.16.239:8000/Planeta_HD
-#EXTINF:-1 tvg-id="vkus" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/45/Vkus_%282024%2C_purple%29.png" group-title="Познавательное",ВКУС
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://www.cableman.ru/sites/default/files/logo_myplanet_color_text_1.png" group-title="Познавательное",Моя Планета
+#EXTVLCOPT:http-user-agent=IPTV
+http://uiptv.do.am/1ufc/312275719/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/topsecret.png" group-title="Познавательное",Top Secret
+#EXTVLCOPT:http-referrer=https://sovsekretno.tv/
+https://live-sovsec-ref.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8?zoid=sref
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/45/Vkus_%282024%2C_purple%29.png" group-title="Познавательное",ВКУС
 http://89.218.32.179:18000/play/a027
 #EXTINF:-1 tvg-id="viju-explore" tvg-logo="https://ntvplus.tv/files/image/80/00/03/djf.png" group-title="Познавательное",viju Explore HD
 https://stream8.cinerama.uz/1045/mono.m3u8
