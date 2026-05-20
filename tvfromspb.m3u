@@ -260,7 +260,7 @@ https://stream8.cinerama.uz/1059/mono.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s70378.cdn.ngenix.net/amedia_premium_hd/index.m3u8
 #EXTINF:-1 tvg-id="fantastic-animation" tvg-logo="https://fantv.ru/favIcons/android-chrome-192x192.png" group-title="Фильмы и сериалы",FAN
-http://31.148.48.15/Fan/index.m3u8
+http://185.78.112.47:8077/fan/index.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-action" tvg-logo="https://ntvplus.tv/files/image/79/84/34/q25.png" group-title="Фильмы и сериалы",viju TV1000 Action HD
 https://stream8.cinerama.uz/1225/mono.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://www.cableman.ru/sites/default/files/sarafan.png" group-title="Развлекательное",Сарафан
@@ -397,7 +397,7 @@ https://stream8.cinerama.uz/1228/mono.m3u8
 https://stream8.cinerama.uz/1428/mono.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-logo="https://smotret-tv.live/images/mult.png" group-title="Детское",МУЛЬТ
 #EXTVLCOPT:http-user-agent=IPTV
-http://89.218.32.179:18000/play/a03j
+http://185.46.16.239:8000/Mult
 #EXTINF:-1 tvg-id="smayl-tv" tvg-logo="https://www.cableman.ru/sites/default/files/3d.png" group-title="Детское",Смайлик ТВ
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="detskiy-mir" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/67/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%BB%D1%83%D0%B1_%282003%2C_%D1%8D%D1%84%D0%B8%D1%80%D0%BD%D1%8B%D0%B9%2C_%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%B9_%D1%86%D0%B2%D0%B5%D1%82%29.png/revision/latest?cb=20170912082125&path-prefix=ru" group-title="Детское",Детский мир
@@ -457,7 +457,7 @@ https://stream8.cinerama.uz/1270/index.m3u8
 #EXTINF:-1 tvg-id="ani" tvg-logo="https://ani.tlum.ru/assets/website/additional-sites/ani/images/logo.png" group-title="Детское",Ani
 http://46.32.176.50/anitv/index.m3u8
 #EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://www.cableman.ru/sites/default/files/radostmoya.png" group-title="Детское",Радость Моя
-https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="vitrina-tv" tvg-logo="https://online-red.com/images/tv/vitrinatv.png" group-title="Телемагазины",Витрина ТВ
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/index.m3u8
 #EXTINF:-1 tvg-id="leomax24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrqD1a5NPCbEnNxxvN-ybuSkBqOVReS1cMkg&s" group-title="Телемагазины",LEOMAX24
@@ -472,7 +472,8 @@ https://bl.rutube.ru/livestream/0064bd09060c8b8469fef19f269e8a8a/index.m3u8?s=fk
 https://stream8.cinerama.uz/1201/mono.m3u8
 #EXTINF:-1 tvg-id="music-box-russia" tvg-logo="https://smotreshka.server-img.lfstrm.tv/images/channel_logos/logo_535f5e36ebf8c403a1001bde.png" group-title="Музыкальное",RUSSIAN MUSIC BOX
 http://185.78.112.47:8077/music-box-ru/index.m3u8
-#EXTINF:-1 tvg-id="music-box-russia" tvg-logo="https://smotreshka.server-img.lfstrm.tv/images/channel_logos/logo_535f5e36ebf8c403a1001bde.png" group-title="Музыкальное",FON
+#EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/FonMusic.jpg" group-title="Музыкальное",ТНТ MUSIC HD
+https://tntm.mediacdn.ru/cdn/tntmusic/mono.ts.m3u8
 #EXTINF:-1 tvg-id="1hd" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/02/1HD_2_%28без_надписи%29.png/revision/latest?cb=20170301113719&path-prefix=ru" group-title="Музыкальное",1HD
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-id="jar-ptica" tvg-logo="https://zhar-ptica.tv/sites/default/files/logo.png" group-title="Музыкальное",Жар Птица
@@ -503,6 +504,8 @@ https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 http://193.25.8.59:8000/vh1
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/18/40/fw6.png" group-title="Музыкальное",MCM Top
 http://46.32.176.50/mcmtop/index.m3u8
+#EXTINF:-1 tvg-logo="https://mixmtv.ru/gallery/MIX-M-1-0-ts1695106752.png" group-title="Музыкальное",MIXM TV
+https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=ykynMV9FL9oIO13X0Q4Y1g&e=2069154903&scheme=https
 #EXTINF:-1 tvg-logo="https://muz.tv-soyuz.ru/images/logo.png" group-title="Музыкальное",МузСоюз
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Музыкальное",Trace Urban HD
@@ -511,8 +514,9 @@ https://mhd128.iptv2022.com/p/streaming/eda/324/1/mono.m3u8
 https://stream8.cinerama.uz/1238/mono.m3u8
 #EXTINF:-1 tvg-logo="https://obob.tv/wp-content/uploads/2024/11/876544.png" group-title="Музыкальное",BRIDGE TV ЭТНО
 http://89.218.32.179:18000/play/a02n
-#EXTINF:-1 tvg-logo="https://mixmtv.ru/gallery/MIX-M-1-0-ts1695106752.png" group-title="Музыкальное",MIXM TV
-https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=ykynMV9FL9oIO13X0Q4Y1g&e=2069154903&scheme=https
+#EXTINF:-1 tvg-logo="https://resizer.mail.ru/p/a09a8d12-43c1-501d-9335-d5fe3c2d94c0/AAAC4KVZro2v5zmSCCh0GIIRvNwO5E1VaIOWiVyirEbhhDPI_nhZiOTCf-_DX5GCEXYqkt5Vh_CPrcqJYMgHvUGS8EA.png" group-title="Музыкальное",Shant music
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s70378.cdn.ngenix.net/shant_music/index.m3u8
 #EXTINF:-1 tvg-logo="https://vits.tv/images/tvstation/russia/match-strana.png" group-title="Спортивное",Матч! Страна
 https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/02/31/28/3z9.png" group-title="Спортивное",Матч! Боец
@@ -544,6 +548,28 @@ https://s70378.cdn.ngenix.net/m1_global/index.m3u8
 http://193.25.8.59:8000/khl
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-altay/4416885/2a000001772a1120c9bf7738345a5bd60408/S_height" group-title="Региональное",Лен ТВ 24
 https://bl.rutube.ru/livestream/dd022de9cc6c8af89409513fa0a6117a/index.m3u8?s=Jak6tbL_azGsPxkARipK_g&e=2075485545&scheme=https
+#EXTINF:-1 tvg-logo="https://vits.tv/images/tvstation/russia/svoe-tv-stavropol.png" group-title="Региональное",Своё ТВ Ставрополь HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_STAVR_STV-PLUS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://intersvyaz-ural.is74.ru/upload/iblock/6fe/3t16p9pn8z9ltvbtntqpx7b9njibswvy.png" group-title="Региональное",Патриот
+http://185.46.48.18:80/asvtv/mono.m3u8
+#EXTINF:-1 tvg-logo="https://grozny.tv/img/logo.png" group-title="Региональное",Грозный
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1 tvg-logo="https://reklama-radio-tv.ru/wp-content/uploads/2020/07/москва_доверие_реклама.png" group-title="Региональное",Москва. Доверие
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/sever_neneckiy.png" group-title="Региональное",Север
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_KOTLASTV/variant.m3u8
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/maydan.jpg" group-title="Региональное",Майдан
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3u8
+#EXTINF:-1 tvg-logo="https://don24.tv/img/tv/logo-header.png" group-title="Региональное",ДОН 24 HD
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
+#EXTINF:-1 tvg-logo="https://mirbelogorya.ru/templates/bootstrap/images/logo-mb-circle.png" group-title="Региональное",Мир Белогорья
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlDg4LORMu73ni9z-876eM2vdyVyZDJYjmjQ&s" group-title="Региональное",Волгоград 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/track_101_1f3a2163/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://online-red.com/images/tv/samara-24.png" group-title="Региональное",Самара 24
@@ -565,7 +591,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/track_105_dd0cf
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/360_news.png" group-title="Информационное",360 Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.ts.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
 #EXTINF:-1 tvg-name="Известия HD" tvg-logo="https://vits.tv/images/tvstation/russia/izvestiya.png" group-title="Информационное",iz.ru
-https://hls-igi.cdnvideo.ru/igi/igi_hq/mono.ts.m3u8?hls_proxy_host=06356f05f0a86f5bff53697210849f42
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://s70378.cdn.ngenix.net/izvestiya/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/televizionnofutbolnaya-viki/images/9/9b/RT_01.09.2010.png/revision/latest?cb=20230831052834&path-prefix=ru" group-title="Информационное",Russia Today
 #EXTVLCOPT:http-user-agent=SmartTV
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8
