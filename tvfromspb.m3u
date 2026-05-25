@@ -312,7 +312,7 @@ https://mhd128.iptv2022.com/p/streaming/eda/324/1/mono.m3u8
 #EXTINF:-1 tvg-id="teledom" tvg-logo="https://vits.tv/images/tvstation/russia/teledom.png" group-title="Развлекательное",ТелеДом
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="zhara" tvg-logo="https://podarokangelu.com/uploads/smi/logo/63052947be0b9424298005.png" group-title="Развлекательное" group-title="Музыкальное",ЖАРА
-https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
+https://fs.uplink.kz/zhara/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="russian-extreme" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/b2c/h8s9jrh2ibt3t5ap83l7fp47n7zkscaw/160_160_1/000000103.png" group-title="Развлекательное",Russian Extreme
 #EXTVLCOPT:http-user-agent=IPTV
 http://185.78.112.47:8077/rus-extrim/index.m3u8
