@@ -573,7 +573,7 @@ http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_OTT_VLG_KZN_MAIDAN/variant.m3
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
 #EXTINF:-1 tvg-logo="https://smotret.tv/images/info-24.jpg" group-title="Региональное",Инфо 24 (Шадринск)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
+https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
 #EXTINF:-1 tvg-logo="https://don24.tv/img/tv/logo-header.png" group-title="Региональное",ДОН 24 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
