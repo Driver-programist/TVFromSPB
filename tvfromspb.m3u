@@ -413,7 +413,12 @@ https://stream8.cinerama.uz/1228/mono.m3u8
 https://stream8.cinerama.uz/1428/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/000000146.png" group-title="Познавательное",Домашние Животные
 https://stream8.cinerama.uz/1426/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/zvezda_plyus_logo.png" group-title="Познавательное",Звезда Плюс
+https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/terra_cvetnoy_logotip.png" group-title="Познавательное",TERRA
+http://217.174.229.136:8000/play/a039
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/oruzhie.png" group-title="Познавательное",Оружие
+http://185.78.112.47:8077/oruzhie/index.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-logo="https://smotret-tv.live/images/mult.png" group-title="Детское",МУЛЬТ
 #EXTVLCOPT:http-user-agent=IPTV
 http://185.46.16.239:8000/Mir_24
@@ -492,7 +497,7 @@ https://stream8.cinerama.uz/1201/mono.m3u8
 #EXTINF:-1 tvg-id="music-box-russia" tvg-logo="https://smotreshka.server-img.lfstrm.tv/images/channel_logos/logo_535f5e36ebf8c403a1001bde.png" group-title="Музыкальное",RUSSIAN MUSIC BOX
 http://185.78.112.47:8077/music-box-ru/index.m3u8
 #EXTINF:-1 tvg-logo="https://ramnet.ru/tv/logo/FonMusic.jpg" group-title="Музыкальное",ТНТ MUSIC
-http://217.174.229.136:8000/play/a00j
+http://195.26.83.96:7029/play/9
 #EXTINF:-1 tvg-id="1hd" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/02/1HD_2_%28без_надписи%29.png/revision/latest?cb=20170301113719&path-prefix=ru" group-title="Музыкальное",1HD
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-id="jar-ptica" tvg-logo="https://zhar-ptica.tv/sites/default/files/logo.png" group-title="Музыкальное",Жар Птица
