@@ -157,9 +157,9 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s70378.cdn.ngenix.net/amedia_hit/index.m3u8
 #EXTINF:-1 tvg-id="start-air" tvg-logo="https://www.cableman.ru/sites/default/files/Start_Air_LOGO_telekanal.png" group-title="Фильмы и сериалы",Start Air
-http://89.218.32.179:18000/play/a03s
+http://217.174.229.136:8000/play/a099
 #EXTINF:-1 tvg-id="start-world" tvg-logo="https://tvtvtv.ru/logos/start_world.png" group-title="Фильмы и сериалы",Start World
-http://77.245.98.18:8000/play/a02c
+http://217.174.229.136:8000/play/a09a
 #EXTINF:-1 tvg-id="india" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/720/3cc9pn25uaq11ltx5l7ihpsyn0t9h0h8/160_160_1/000000237.png" group-title="Фильмы и сериалы",Индия
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s70378.cdn.ngenix.net/zee_tv/index.m3u8
@@ -175,7 +175,7 @@ http://46.32.176.50/paramountchannel/index.m3u8
 https://s70378.cdn.ngenix.net/filmbox/index.m3u8
 #EXTINF:-1 tvg-id="cinema" tvg-logo="https://images.iptv.rt.ru/images/ch4dilrmhk079s3jpgmg.png" group-title="Фильмы и сериалы",Cinema
 http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 tvg-id="jtx-online" tvg-logo="https://jtx-online.ru/logo/logo.png" tvg-name="JTX Online" group-title="Фильмы и сериалы",JTX
+#EXTINF:-1 tvg-id="jtx-online" tvg-logo="https://jtx-online.ru/logo/logo.png" tvg-name="JTX Online" group-title="Фильмы и сериалы",JTX Online
 http://kinowalk.hopto.org/jtxonline_live
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://www.domkino.tv/images/logo.png" group-title="Фильмы и сериалы",Дом кино
 https://stream8.cinerama.uz/1054/mono.m3u8
@@ -211,6 +211,8 @@ http://158.101.222.193:88/georgia_play.php?id=amedia2
 https://fs.uplink.kz/o/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="mosfilm-zolotayakollektciya" tvg-logo="https://ntvplus.tv/files/image/88/39/72/wua.png" group-title="Фильмы и сериалы",Мосфильм. Золотая коллекция
 http://193.25.8.59:8000/tnv
+#EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://tvprogviewer.ru/images/thumbs/0000121_indijskoe-kino_220.png" group-title="Фильмы и сериалы",Индийское кино
+https://stream8.cinerama.uz/1060/mono.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000" tvg-logo="https://ntvplus.tv/files/image/80/00/02/2qx.png" group-title="Фильмы и сериалы",viju TV1000 HD
 https://stream8.cinerama.uz/1058/mono.m3u8
 #EXTINF:-1 tvg-id="viju-plus-comedy" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/e2b/o7ibo166rmr0btx790d93u9dtlul3urw/160_160_1/000000870.png" group-title="Фильмы и сериалы",viju+ Comedy HD
@@ -220,7 +222,7 @@ https://s70378.cdn.ngenix.net/vip_comedy/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s70378.cdn.ngenix.net/sony_sci_fi/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.rambler.ru/epg/logo/000000157.png",Карусель int.
-https://fs.uplink.kz/o/mono.ts.m3u8?token=onlinetv
+https://fs.uplink.kz/karusel/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/CTC_INTERNATIONAL.jpg",СТС int.
 https://fs.uplink.kz/sts/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="telecafe" tvg-logo="http://vsewtv.top/img/telekafe.jpg" group-title="Фильмы и сериалы",Телекафе
@@ -462,6 +464,8 @@ https://stream8.cinerama.uz/1501/mono.m3u8
 #EXTINF:-1 tvg-id="supergeroi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfJjKLgUmgvYiseo2iDz_Pk1geyOt-l0mj4g&s" group-title="Детское",Малыш
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s70378.cdn.ngenix.net/malish/index.m3u8
+#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/88/48/91/zup.png" group-title="Детское",BABY TIME
+http://89.218.32.179:18000/play/a028
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/mamontenok_0.png" group-title="Детское",Мамонтёнок
 http://sirius.greenhosting.ru/MamontRu/video.m3u8
 #EXTINF:-1 tvg-id="jim-jam" tvg-logo="https://www.cableman.ru/sites/default/files/jimjam_0.png" group-title="Детское",JimJam
