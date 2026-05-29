@@ -34,6 +34,34 @@ https://streaming.televizor-24-tochka.ru/live/8-req_offset_28000000.m3u8
 #EXTINF:-1,ТВ Центр
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.televizor-24-tochka.ru/live/13-req_offset_28000000.m3u8
-#EXTINF:-1,ТВ Центр
-
+#EXTINF:-1,ОТР
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/12-req_offset_28000000.m3u8
+#EXTINF:-1,Мир
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/22-req_offset_28000000.m3u8
+#EXTINF:-1,ТНТ
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.goodstream.icu/live/38-req_offset_28000000.m3u8
+#EXTINF:-1,Домашний
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/17-req_offset_28000000.m3u8
+#EXTINF:-1,РЕН ТВ
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/14-req_offset_28000000.m3u8
+#EXTINF:-1,Спас
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/15-req_offset_28000000.m3u8
+#EXTINF:-1,ТВ-3
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/18-req_offset_28000000.m3u8
+#EXTINF:-1,Россия К
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/9-req_offset_28000000.m3u8
+#EXTINF:-1,Твария
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/24-req_offset_28000000.m3u8
+#EXTINF:-1,Юнион
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/27-req_offset_28000000.m3u8
 
