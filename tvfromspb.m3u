@@ -287,7 +287,7 @@ https://s80718.cdn.ngenix.net/hls/CH_REDHD/variant.m3u8
 #EXTINF:-1 tvg-id="kaleydaskop-tv" tvg-logo="https://www.oreol.tv/img/news/1234.png" group-title="Развлекательное",Калейдоскоп ТВ
 https://serv25.vintera.tv/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="drive-tv" tvg-logo="https://smotret-tv.live/images/drajv.png" group-title="Развлекательное",Драйв
-https://stream8.cinerama.uz/1421/index.m3u8
+http://193.25.8.59:8000/drive
 #EXTINF:-1 tvg-id="tlc" tvg-logo="https://smotret-tv.live/images/tlc.png" group-title="Развлекательное",TLC HD
 http://46.32.176.50/tlc/index.m3u8
 #EXTINF:-1 tvg-id="tehno-24" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/89/Техно_24_%28без_надписи%29.png/revision/latest/scale-to-width-down/1200?cb=20210805205115&path-prefix=ru" group-title="Развлекательное",Техно 24
