@@ -87,7 +87,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTINF:-1 tvg-id="bober" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%91%D0%BE%D0%B1%D1%80%D0%B0.png" group-title="Познавательное",Бобёр
 https://fs.uplink.kz/bober/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="voprosyiotvety" tvg-logo="https://www.cableman.ru/sites/default/files/voprosy_i_otvety.png" group-title="Развлекательное",Вопросы и ответы
-https://stream8.cinerama.uz/1429/mono.m3u8
+https://mhd128.iptv2022.com/p/streaming/eda/324/1/mono.m3u8
 #EXTINF:-1 tvg-id="subota" tvg-logo="https://toplogos.ru/images/logo-subbota.png" group-title="Развлекательное",Суббота
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=okiM7yWr-AkTeoJqFyzwSg&e=2072222113&scheme=https
 #EXTINF:-1 tvg-id="2x2" tvg-logo="https://images.seeklogo.com/logo-png/41/1/telekanal-2x2-logo-png_seeklogo-412934.png" group-title="Развлекательное",2x2
@@ -133,7 +133,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/mono.ts.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s80718.cdn.ngenix.net//hls//CH_KINOKOMEDIYA//variant.m3u8
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://www.cableman.ru/sites/default/files/kinosemya.png" group-title="Фильмы и сериалы",Киносемья
-https://stream8.cinerama.uz/1234/mono.m3u8
+http://217.174.229.136:8000/play/a085
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://www.cableman.ru/sites/default/files/nashe_novoe_kino.png" group-title="Фильмы и сериалы",Наше новое кино
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s70378.cdn.ngenix.net/nashe_novoe_kino/index.m3u8
@@ -167,7 +167,7 @@ https://s70378.cdn.ngenix.net/zee_tv/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s70378.cdn.ngenix.net/fox_life/index.m3u8
 #EXTINF:-1 tvg-logo="https://24htv.qipconnect.ru/subcribes/AdditionPackets/ManyFilms/ManyFilms_files/4d8496f2bed379c6fe64f95b26aea5d3.png" group-title="Фильмы и сериалы",Кинопоказ
-https://stream8.cinerama.uz/1057/index.m3u8
+http://185.78.112.47:8077/kinopokaz/index.m3u8
 #EXTINF:-1 tvg-logo="https://uut-telecom.ru/wp-content/uploads/2022/04/plan-b.png" group-title="Фильмы и сериалы",Plan B
 http://46.32.176.50/paramountchannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/6462.png" group-title="Фильмы и сериалы",Filmbox
@@ -178,7 +178,7 @@ http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 tvg-id="disney" tvg-logo="https://jtx-online.ru/logo/logo.png" tvg-name="Солнце" group-title="Фильмы и сериалы",JTX Online
 http://kinowalk.hopto.org/jtxonline_live
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://www.domkino.tv/images/logo.png" group-title="Фильмы и сериалы",Дом кино
-https://stream8.cinerama.uz/1054/mono.m3u8
+http://46.32.176.50/domkino/index.m3u8
 #EXTINF:-1 tvg-id="domkinopremium" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/dc1/dot2dan77bkph0y3ip0yehox3czc12bh/160_160_1/000002943.png" group-title="Фильмы и сериалы",Дом кино Премиум HD
 http://46.32.176.50/DomKinoPremiumHD/index.m3u8
 #EXTINF:-1 tvg-id="kinotv" tvg-logo="https://ramnet.ru/tv/logo/000000558.png" group-title="Фильмы и сериалы",Кино ТВ HD
@@ -194,15 +194,15 @@ http://94.236.201.114/MIR_SERIALA_SD/mono.m3u8
 http://176.118.197.101/HCT/index.m3u8
 #EXTINF:-1 tvg-id="russliy-detektiv" tvg-logo="https://rudetective.tv/favIcons/android-chrome-192x192.png" group-title="Фильмы и сериалы",Русский детектив
 https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
-#EXTINF:-1 tvg-id="saphir" tvg-logo="https://mt.media/upload/iblock/e1d/e1d844cdede445c8022f5262dd35cbfd.png" group-title="Фильмы и сериалы",САПФИР
-http://46.32.176.50/foxlife/index.m3u8
+#EXTINF:-1 tvg-id="saphir" tvg-logo="https://mt.media/upload/iblock/e1d/e1d844cdede445c8022f5262dd35cbfd.png" group-title="Фильмы и сериалы",САПФИР HD
+http://217.174.229.136:8000/play/a02x
 #EXTINF:-1 tvg-id="kineko" tvg-logo="https://mt.media/upload/iblock/244/244d1ac99a98645f85a9152a6fc0e0e4.png" group-title="Фильмы и сериалы",Кинеко
-http://193.25.8.59:8000/fox
+http://89.218.32.179:18000/play/a04i
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://ramnet.ru/tv/logo/000000321.png" group-title="Развлекательное",ТНТ4
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 tvg-id="zhivaya_planeta" tvg-logo="https://vits.tv/images/tvstation/russia/zhivaya-planeta.png" group-title="Познавательное",Живая планета
-https://stream8.cinerama.uz/1250/mono.m3u8
+http://46.32.176.50/jivayaplaneta/index.m3u8
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="http://vsewtv.top/img/amedia-1.jpg" group-title="Фильмы и сериалы",A1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 tvg-id="amedia2" tvg-logo="http://vsewtv.top/img/amedia-2.jpg" group-title="Фильмы и сериалы",A2
@@ -212,9 +212,9 @@ https://fs.uplink.kz/o/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="mosfilm-zolotayakollektciya" tvg-logo="https://ntvplus.tv/files/image/88/39/72/wua.png" group-title="Фильмы и сериалы",Мосфильм. Золотая коллекция
 http://193.25.8.59:8000/tnv
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://tvprogviewer.ru/images/thumbs/0000121_indijskoe-kino_220.png" group-title="Фильмы и сериалы",Индийское кино
-https://stream8.cinerama.uz/1060/mono.m3u8
-#EXTINF:-1 tvg-id="viju-tv1000" tvg-logo="https://ntvplus.tv/files/image/80/00/02/2qx.png" group-title="Фильмы и сериалы",viju TV1000 HD
-https://stream8.cinerama.uz/1058/mono.m3u8
+http://217.174.229.136:8000/play/a02v
+#EXTINF:-1 tvg-id="viju-tv1000" tvg-logo="https://ntvplus.tv/files/image/80/00/02/2qx.png" group-title="Фильмы и сериалы",viju TV1000
+http://89.218.32.179:18000/play/a02v
 #EXTINF:-1 tvg-id="viju-plus-comedy" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/e2b/o7ibo166rmr0btx790d93u9dtlul3urw/160_160_1/000000870.png" group-title="Фильмы и сериалы",viju+ Comedy HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s70378.cdn.ngenix.net/vip_comedy/index.m3u8
@@ -244,11 +244,11 @@ https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s80718.cdn.ngenix.net//hls//CH_MUJSKOE_KINOHD//variant.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://www.cableman.ru/sites/default/files/viju_TV1000_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0_color_rgb_02%20%281%29.png" group-title="Фильмы и сериалы",viju TV1000 Новелла
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/mono.ts.m3u8?md5=kdXGwybQzJ7uGZFgO0r6Rg&e=1780757151
+http://89.218.32.179:18000/play/a030
 #EXTINF:-1 tvg-id="kino-i-jizn" tvg-logo="https://programma-peredach.com/img/ch/200/kino-i-zhizn.png" group-title="Фильмы и сериалы",Кино и Жизнь HD
 https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=MX47bZYeXcAIwr5fvOHFeQ&e=2076626569&scheme=https
 #EXTINF:-1 tvg-id="retro" tvg-logo="https://yootv.host/images/logo-channel/retro-channel-tv.png" group-title="Фильмы и сериалы",Ретро
-https://stream8.cinerama.uz/1047/mono.m3u8
+http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 tvg-id="russkiy-bestceler" tvg-logo="https://yootv.host/images/logo-channel/rus-best-logo.png" group-title="Фильмы и сериалы",Русский бестселлер
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
 #EXTINF:-1 tvg-id="russkiy-illyuzion" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/25/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD_%28%D1%81_2018%2C_%D1%8D%D1%84%D0%B8%D1%80%29.png/revision/latest/scale-to-width-down/250?cb=20210626145715&path-prefix=ru" group-title="Фильмы и сериалы",Русский иллюзион
@@ -256,7 +256,7 @@ http://46.32.176.50/russkiyiluzion/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-logo="https://yootv.host/images/logo-channel/hollywood-tv.png" group-title="Фильмы и сериалы",Hollywood
 http://193.25.8.59:8000/interaz
 #EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/9153.png" group-title="Фильмы и сериалы",viju TV1000 Romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/mono.ts.m3u8?md5=Mf5IfJnLEd08t0fNkkdanA&e=1780757273
+http://217.174.229.136:8000/play/a04b
 #EXTINF:-1 tvg-id="kinosezon" group-title="Фильмы и сериалы",Киносезон
 https://mhd128.iptv2022.com/p/streaming/kinosezon/324/1/mono.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-logo="https://ramnet.ru/tv/logo/000000074.png" group-title="Фильмы и сериалы",Родное кино
@@ -267,18 +267,18 @@ https://s70378.cdn.ngenix.net/illusion_plus/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9OPMLE.png" group-title="Фильмы и сериалы",Феникс+ Кино
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 tvg-id="viju-tv1000-russkoe" tvg-logo="http://magtv.top/img/tv1000rus.jpg" group-title="Фильмы и сериалы",TV1000 Русское кино
-https://stream8.cinerama.uz/1059/mono.m3u8
+http://89.218.32.179:18000/play/a02t
 #EXTINF:-1 tvg-id="amediapremium-hd" tvg-logo="http://vsewtv.top/img/amedia-premium.jpg" group-title="Фильмы и сериалы",Amedia Premium HD
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s70378.cdn.ngenix.net/amedia_premium_hd/index.m3u8
 #EXTINF:-1 tvg-id="fantastic-animation" tvg-logo="https://fantv.ru/favIcons/android-chrome-192x192.png" group-title="Фильмы и сериалы",FAN
 http://185.78.112.47:8077/fan/index.m3u8
-#EXTINF:-1 tvg-id="viju-tv1000-action" tvg-logo="https://ntvplus.tv/files/image/79/84/34/q25.png" group-title="Фильмы и сериалы",viju TV1000 Action HD
-https://stream8.cinerama.uz/1225/mono.m3u8
+#EXTINF:-1 tvg-id="viju-tv1000-action" tvg-logo="https://ntvplus.tv/files/image/79/84/34/q25.png" group-title="Фильмы и сериалы",viju TV1000 Action
+http://89.218.32.179:18000/play/a02u
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://www.cableman.ru/sites/default/files/sarafan.png" group-title="Развлекательное",Сарафан
-https://stream8.cinerama.uz/1249/index.m3u8
+http://89.218.32.179:18000/play/a03k
 #EXTINF:-1 tvg-id="kuhnya" tvg-logo="https://www.cableman.ru/sites/default/files/Kuhnya.png" group-title="Развлекательное",КУХНЯ ТВ
-https://stream8.cinerama.uz/1236/mono.m3u8
+http://217.174.229.136:8000/play/a07o
 #EXTINF:-1 tvg-id="anekdot-tv" tvg-logo="https://www.anekdottv.tv/upload/iblock/57c/57ccb3041375893cf583e73cf2a10d87.png" group-title="Развлекательное",Анекдот ТВ
 https://mhd128.iptv2022.com/p/streaming/eda/324/1/mono.m3u8
 #EXTINF:-1 tvg-id="sony-red" tvg-logo="https://smotret-tv.live/images/red-kanal.png" group-title="Развлекательное",.red HD
