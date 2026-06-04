@@ -1,0 +1,29 @@
+name: Auto Update IPTV
+
+on:
+  push: # Робот запустится сам сразу после сохранения файла!
+  schedule:
+    - cron: '0 */3 * * *' # Запуск каждые 3 часа
+  workflow_dispatch: # Включает кнопку для ручного запуска
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Проверка репозитория
+      uses: actions/checkout@v4
+
+    - name: Настройка Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Запуск скрипта обновления ссылки
+      run: node update_playlist.js
+
+    - name: Сохранение изменений в репозиторий
+      run: |
+        git config --global user.name "IPTV-Robot"
+        git config --global user.email "robot@github.com"
+        git add tvfromspb.m3u
+        git diff --quiet && git diff --staged --quiet || (git commit -m "JS: Обновлен поток канала Еда" && git push)
