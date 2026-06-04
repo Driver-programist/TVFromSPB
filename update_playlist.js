@@ -20,7 +20,7 @@ async function main() {
         // 2. Ищем поток Еды у донора
         for (let i = 0; i < donorLines.length; i++) {
             const line = donorLines[i].trim();
-            if (line.startsWith("http") && line.toLowerCase().includes("/streaming/eda/")) {
+            if (line.startsWith("https") && line.toLowerCase().includes("/streaming/eda/")) {
                 // ОБЯЗАТЕЛЬНОЕ УДАЛЕНИЕ "tracks-v5a1/"
                 donorURL = line.replace("tracks-v5a1/", "");
 
