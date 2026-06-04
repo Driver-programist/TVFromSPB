@@ -662,11 +662,11 @@ https://tvoetv.space/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="tochka-tv" tvg-logo="https://tochkatv.tv/wp-content/uploads/2017/09/logo.png" group-title="Развлекательное",Точка ТВ
 https://flussonic.mkpnet.ru/tv-297099e2d5179304/video.m3u8
 #EXTINF:-1 tvg-id="faishon-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Fashion_tv_hd.png" group-title="Развлекательное",Fashion TV
-https://mhd128.iptv2022.com/p/streaming/fashion/324/1/mono.m3u8
+https://stream8.cinerama.uz/1053/mono.m3u8
 #EXTINF:-1 tvg-id="viva-russia-hd" tvg-logo="https://viva-russia.ru/wp-content/uploads/2021/01/my-logo-viva-e1611501083360.png" group-title="Музыкальное",VIVA Russia HD
 https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=qP8QEB_Ni4Kis6RevUtZvQ&e=2075461502&scheme=https
 #EXTINF:-1 tvg-id="insight-uhd" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/9/9b/Insight_TV_%282020%29.png/revision/latest?cb=20220116092323&path-prefix=ru" group-title="Развлекательное",Insight TV HD
-https://mhd128.iptv2022.com/p/streaming/fashion/324/1/mono.m3u8
+https://stream8.cinerama.uz/1416/mono.m3u8
 #EXTINF:-1 group-title="Радио",Вести FM
 https://stream.smotrim.ru/hls/vesti_fm/playlist_6.m3u8
 #EXTINF:-1 group-title="Радио",Маяк
