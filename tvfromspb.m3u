@@ -521,7 +521,7 @@ http://195.26.83.96:7006/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="ducktv-hd" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/31/Duck_TV.png/revision/latest/scale-to-width-down/250?cb=20170210045108&path-prefix=ru" group-title="Детское",DuckTV
 https://stream8.cinerama.uz/1271/mono.m3u8
 #EXTINF:-1 tvg-id="cartoonito" tvg-logo="https://smotret-tv.live/images/cartoonito.png" group-title="Детское",Cartoonito
-https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
+http://85.14.32.26:8800/udp/239.100.10.27:5000
 #EXTINF:-1 tvg-id="ginger-hd" tvg-logo="https://smotret-tv.live/images/kapitan-fantastika.png" group-title="Детское",Капитан Фантастика HD
 https://stream8.cinerama.uz/1406/mono.m3u8
 #EXTINF:-1 tvg-id="kinomult" tvg-logo="https://www.cableman.ru/sites/default/files/Kino_Mult_1.png" group-title="Детское",КиноМульт
@@ -585,7 +585,7 @@ https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png
 #EXTINF:-1 tvg-logo="https://muz.tv-soyuz.ru/images/logo.png" group-title="Музыкальное",МузСоюз
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Музыкальное",Trace Urban HD
-https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
+https://channels.trace.plus/Traceprod/URBAN_FR/.m3u8
 #EXTINF:-1 tvg-logo="https://cdnmusiclive.red-media.ru/wp-content/uploads/2025/04/logo2025-orange.png" group-title="Музыкальное",Ля-минор
 https://stream8.cinerama.uz/1238/mono.m3u8
 #EXTINF:-1 tvg-logo="https://obob.tv/wp-content/uploads/2024/11/876544.png" group-title="Музыкальное",Bridge TV Этно
