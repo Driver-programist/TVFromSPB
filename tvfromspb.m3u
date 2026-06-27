@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz" x tvg-url="https://clck.ru/3RZw9D"
+#EXTM3U tvg-url="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 #PLAYLIST
 #EXTINF:-1 tvg-id="1tv" tvg-logo="https://free-png.ru/wp-content/uploads/2020/09/Pervyj-kanal-01.png" group-title="Общероссийские",Первый канал
 #EXTVLCOPT:http-user-agent=IPTV
