@@ -491,7 +491,8 @@ http://89.218.32.179:18000/play/a04k
 http://31.210.208.171:8080/oruzhie/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="mult" tvg-logo="https://smotret-tv.live/images/mult.png" group-title="Детское",МУЛЬТ
 #EXTVLCOPT:http-user-agent=IPTV
-http://185.46.16.239:8000/Mult
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://stream8.cinerama.uz/1246/mono.m3u8
 #EXTINF:-1 tvg-id="smayl-tv" tvg-logo="https://www.cableman.ru/sites/default/files/3d.png" group-title="Детское",Смайлик ТВ
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=lK9l_nQ5tb471GtX_e6-mg&e=2079260882&scheme=https
 #EXTINF:-1 tvg-id="detskiy-mir" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/67/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%BB%D1%83%D0%B1_%282003%2C_%D1%8D%D1%84%D0%B8%D1%80%D0%BD%D1%8B%D0%B9%2C_%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%B9_%D1%86%D0%B2%D0%B5%D1%82%29.png/revision/latest?cb=20170912082125&path-prefix=ru" group-title="Детское",Детский мир
@@ -537,7 +538,7 @@ https://stream8.cinerama.uz/1501/mono.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s70378.cdn.ngenix.net/malish/index.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/88/48/91/zup.png" group-title="Детское",BABY TIME
-http://89.218.32.179:18000/play/a028
+https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/mamontenok_0.png" group-title="Детское",Мамонтёнок
 http://sirius.greenhosting.ru/MamontRu/video.m3u8
 #EXTINF:-1 tvg-id="jim-jam" tvg-logo="https://www.cableman.ru/sites/default/files/jimjam_0.png" group-title="Детское",JimJam
@@ -593,7 +594,7 @@ https://s70378.cdn.ngenix.net/mezzo/index.m3u8
 #EXTINF:-1 tvg-logo="https://smotret-tv.live/images/bridge-tv-hits.png" group-title="Музыкальное",Bridge TV Hits
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 #EXTINF:-1 tvg-logo="https://vits.tv/images/tvstation/russia/bridge-tv-deluxe.png" group-title="Музыкальное",Bridge TV Deluxe
-http://89.218.32.179:18000/play/a02m
+http://46.32.176.50/BridgeTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://vits.tv/images/tvstation/russia/bridge-tv-deluxe.png" group-title="Музыкальное",Bridge TV Deluxe HD
 http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/d8/Логотип_радиостанции_Страна_FM.png/250px-Логотип_радиостанции_Страна_FM.png" group-title="Музыкальное",Страна FM
@@ -603,7 +604,9 @@ http://193.25.8.59:8000/mtv
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/27/Bridge_Rock_%282023%2C_%D0%B1%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D1%8B%D0%B9%29.png/revision/latest/scale-to-width-down/250?cb=20230824100008&path-prefix=ru" group-title="Музыкальное",Bridge TV Rock
 http://31.210.208.171:8080/bridge_rock/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/8e/Bridge_TV_%D0%A4%D1%80%D1%8D%D1%88_%282021%2C_%D0%B1%D0%B5%D0%BB%D1%8B%D0%B5_%D0%B1%D1%83%D0%BA%D0%B2%D1%8B%29.png/revision/latest/scale-to-width-down/250?cb=20210825152226&path-prefix=ru" group-title="Музыкальное",Bridge TV Фрэш
-http://89.218.32.179:18000/play/a02j
+https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
+#EXTINF:-1 tvg-logo="https://obob.tv/wp-content/uploads/2024/11/876544.png" group-title="Музыкальное",Bridge TV Этно
+https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSCaE8YBEEbra6RuARI6E1tIzbMzqqs-hKw&s" group-title="Музыкальное",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/europaplus.png" group-title="Музыкальное",Europa Plus TV
@@ -618,8 +621,6 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m
 https://github.com/Driver-programist/TVFromSPB/blob/main/2026-06-19_22-28-30.png?raw=true
 #EXTINF:-1 tvg-logo="https://cdnmusiclive.red-media.ru/wp-content/uploads/2025/04/logo2025-orange.png" group-title="Музыкальное",Ля-минор
 http://31.210.208.171:8080/muzika_live/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-logo="https://obob.tv/wp-content/uploads/2024/11/876544.png" group-title="Музыкальное",Bridge TV Этно
-http://89.218.32.179:18000/play/a02n
 #EXTINF:-1 tvg-logo="https://resizer.mail.ru/p/a09a8d12-43c1-501d-9335-d5fe3c2d94c0/AAAC4KVZro2v5zmSCCh0GIIRvNwO5E1VaIOWiVyirEbhhDPI_nhZiOTCf-_DX5GCEXYqkt5Vh_CPrcqJYMgHvUGS8EA.png" group-title="Музыкальное",Shant music
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://s70378.cdn.ngenix.net/shant_music/index.m3u8
