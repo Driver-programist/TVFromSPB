@@ -9,8 +9,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-hd/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://ntvplus.tv/files/image/88/63/54/fl9.png" group-title="Общероссийские",НТВ
-#EXTVLCOPT:http-referrer=https://ntv.ru/
-#EXTVLCOPT:http-user-agent=IPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv-spb/playlist.m3u8
 #EXTINF:-1 tvg-id="5-tv" tvg-logo="https://www.cableman.ru/sites/default/files/5_kanal_logo_RGB_RED.png" group-title="Общероссийские",Пятый канал
