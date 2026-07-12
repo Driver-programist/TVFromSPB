@@ -178,7 +178,7 @@ http://kinowalk.hopto.org/jtxonline_live
 http://46.32.176.50/domkino/index.m3u8
 #EXTINF:-1 tvg-id="domkinopremium" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/dc1/dot2dan77bkph0y3ip0yehox3czc12bh/160_160_1/000002943.png" group-title="Фильмы и сериалы",Дом кино Премиум HD
 http://46.32.176.50/DomKinoPremiumHD/index.m3u8
-#EXTINF:-1 tvg-id="kinotv" tvg-logo="https://ramnet.ru/tv/logo/000000558.png" group-title="Фильмы и сериалы",Кино ТВ
+#EXTINF:-1 tvg-id="kinotv" tvg-logo="https://ramnet.ru/tv/logo/000000558.png" group-title="Фильмы и сериалы",Кино ТВ HD
 #EXTVLCOPT:http-user-agent=IPTV
 http://31.210.208.171:8080/kinotv/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" group-title="Фильмы и сериалы",Комедия
@@ -442,7 +442,7 @@ http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 #EXTINF:-1 tvg-id="eda-premium" tvg-name="Еда Премиум" tvg-logo="https://telik.live/images/foodtime.png" group-title="Познавательное",Food Time
 http://31.148.48.15/Eda_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="zagorodnaya-jizn" tvg-logo="https://static.tildacdn.com/tild3466-3338-4531-b264-666537323566/-emblem-small.png" group-title="Познавательное",Загородная жизнь
-http://185.57.68.33/40/index.m3u8
+http://31.210.208.171:8080/zagorodnaya_zhizn/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="priklucheniya-hd" tvg-logo="https://yootv.host/images/logo-channel/priklyucheniya-tv.png" group-title="Познавательное",Приключения
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://stream8.cinerama.uz/1420/mono.m3u8
